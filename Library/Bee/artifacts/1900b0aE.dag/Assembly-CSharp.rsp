@@ -353,6 +353,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/deathzone.cs"
+"Assets/Door.cs"
 "Assets/GrapplingDone.cs"
 "Assets/Ignore/Cinemachine/Base/Runtime/Behaviours/CinemachineBlendListCamera.cs"
 "Assets/Ignore/Cinemachine/Base/Runtime/Behaviours/CinemachineBrain.cs"
@@ -447,6 +448,7 @@
 "Assets/Ignore/Scripts/ThirdPersonCam.cs"
 "Assets/Ignore/Scripts/ThirdPersonCamDone.cs"
 "Assets/Ignore/Scripts/WallRunningAdvanced.cs"
+"Assets/Key.cs"
 "Assets/Other shit/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs"
 "Assets/Other shit/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs"
 "Assets/Other shit/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs"
@@ -463,6 +465,8 @@
 "Assets/PlayerMovementGrappling.cs"
 "Assets/Rotato.cs"
 "Assets/Rotato1.cs"
+"Assets/SpawnEnable.cs"
+"Assets/TimeTrial.cs"
 -langversion:9.0
 
 /deterministic

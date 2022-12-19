@@ -13,7 +13,7 @@ public class deathzone : MonoBehaviour
   {
     if (collider.gameObject.tag == "Player")
     {
-      collider.transform.position = spawnPoint.transform.position;
+      collider.transform.position = GameObject.Find("Spawn").transform.position;
     }
   }
 }
