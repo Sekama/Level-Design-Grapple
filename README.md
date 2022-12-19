@@ -1,5 +1,11 @@
 # Level Design Grapple
 
+Objective:
+
+Navigate through the level to find the Key (yellow cube) and open the Door (green wall.)
+
+Do not touch the red cubes! Black walls cannot be grappled.
+
 
 Controls:
 
