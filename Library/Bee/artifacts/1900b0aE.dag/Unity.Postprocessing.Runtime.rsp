@@ -123,8 +123,8 @@
 -define:ENABLE_XR_MODULE
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"Assets/Other shit/Plugins/Demigiant/DOTween/DOTween.dll"
--r:"Assets/Other shit/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll"
+-r:"Assets/Other stuff/Plugins/Demigiant/DOTween/DOTween.dll"
+-r:"Assets/Other stuff/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -337,6 +337,8 @@
 -r:"C:/Projects/Level Design Grapple/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+-analyzer:"Assets/Other stuff/Plugins/Demigiant/DOTween/DOTween.dll"
+-analyzer:"Assets/Other stuff/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll"
 "Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Runtime/Attributes/DisplayNameAttribute.cs"
 "Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Runtime/Attributes/MaxAttribute.cs"
 "Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Runtime/Attributes/MinAttribute.cs"

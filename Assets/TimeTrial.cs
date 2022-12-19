@@ -13,8 +13,7 @@ public class TimeTrial : MonoBehaviour
 
    private void Start()
    {
-      currentTime = 0;
-      stopWatchActive = true;
+      currentTime = 0f;
    }
 
    private void Update()
@@ -26,6 +25,11 @@ public class TimeTrial : MonoBehaviour
 
       TimeSpan time = TimeSpan.FromSeconds(currentTime);
       timeText.text = time.ToString(@"m\:ss\:ff");
+
+      if (Input.GetKeyDown(KeyCode.Space))
+      {
+         StartStopWatch();
+      }
    }
 
    public void StartStopWatch()

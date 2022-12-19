@@ -19,6 +19,7 @@ ScriptsOnlyBuild:
     - TimeTrial
     - activateOnPlay
     - deathzone
+    - gameStart
     DOTween.dll:
     - DG.Tweening.Core.DOTweenSettings
     Unity.Postprocessing.Runtime.dll:
@@ -369,6 +370,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 7802}
     - Class: 114
       Script: {instanceID: 8028}
+    - Class: 114
+      Script: {instanceID: 28928}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1752,6 +1755,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerMovementAdvancedFinished
+  - hash:
+      serializedVersion: 2
+      Hash: f615baba484ad74dff6d413934fb59d7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: gameStart
   platform: 19
   scenePathNames:
   - Assets/Swinging.unity

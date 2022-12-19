@@ -22,6 +22,14 @@ public class deathzone : MonoBehaviour
       deathCountText.text = "Death Count: " + staticDeathCount.ToString();
     }
   }
+
+  private void Update()
+  {
+    if (Input.GetKeyDown(KeyCode.R))
+    {
+      staticDeathCount = 0;
+    }
+  }
 }
 
 

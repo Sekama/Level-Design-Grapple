@@ -41,6 +41,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="C:\Projects\Level Design Grapple\Assets\Other stuff\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll" />
+    <Analyzer Include="C:\Projects\Level Design Grapple\Assets\Other stuff\Plugins\Demigiant\DOTween\DOTween.dll" />
+  </ItemGroup>
+  <ItemGroup>
      <Compile Include="Assets\deathzone.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs" />
@@ -57,12 +61,12 @@
      <Compile Include="Assets\Ignore\Scripts\Grappling\Grappling_MLab.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs" />
      <Compile Include="Assets\Ignore\Scripts\Ignore\PlayerMovementAdvancedDone.cs" />
-     <Compile Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus.cs" />
+     <Compile Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Timeline\CinemachineTrack.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\AxisState.cs" />
      <Compile Include="Assets\Ignore\Scripts\Grappling\YourMovementScript.cs" />
-     <Compile Include="Assets\Other shit\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
+     <Compile Include="Assets\Other stuff\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs" />
      <Compile Include="Assets\Ignore\Scripts\Grappling\DualHooks.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs" />
@@ -71,12 +75,12 @@
      <Compile Include="Assets\Ignore\Scripts\ThirdPersonCamDone.cs" />
      <Compile Include="Assets\Ignore\Scripts\Ignore\LedgeGrabbingOld.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs" />
-     <Compile Include="Assets\Other shit\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
-     <Compile Include="Assets\Other shit\Ultimate 10 Plus Shaders\Scripts\U10PS_DissolveOverTime.cs" />
-     <Compile Include="Assets\Other shit\Plugins\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
+     <Compile Include="Assets\Other stuff\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
+     <Compile Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Scripts\U10PS_DissolveOverTime.cs" />
+     <Compile Include="Assets\Other stuff\Plugins\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
      <Compile Include="Assets\Ignore\Scripts\Ignore\LedgeGrabbingDone.cs" />
-     <Compile Include="Assets\Other shit\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
-     <Compile Include="Assets\Other shit\Ultimate 10 Plus Shaders\Scripts\U10PS_ExampleReview.cs" />
+     <Compile Include="Assets\Other stuff\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
+     <Compile Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Scripts\U10PS_ExampleReview.cs" />
      <Compile Include="Assets\Ignore\Scripts\Grappling\GrapplingRope_MLab.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs" />
      <Compile Include="Assets\Ignore\Scripts\ThirdPersonCam.cs" />
@@ -97,7 +101,7 @@
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs" />
      <Compile Include="Assets\Ignore\Scripts\Ignore\ClimbingDone.cs" />
      <Compile Include="Assets\Ignore\Scripts\Ignore\OldPlayerMovement.cs" />
-     <Compile Include="Assets\Other shit\Ultimate 10 Plus Shaders\Scripts\U10PS_MouseRotation.cs" />
+     <Compile Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Scripts\U10PS_MouseRotation.cs" />
      <Compile Include="Assets\PlayerMovementGrappling.cs" />
      <Compile Include="Assets\Ignore\Scripts\Sliding.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs" />
@@ -136,64 +140,65 @@
      <Compile Include="Assets\TimeTrial.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Timeline\CinemachineShot.cs" />
      <Compile Include="Assets\Ignore\Scripts\DashingDone.cs" />
-     <Compile Include="Assets\Other shit\Ultimate 10 Plus Shaders\Scripts\U10PS_SnowOverTime.cs" />
+     <Compile Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Scripts\U10PS_SnowOverTime.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs" />
-     <Compile Include="Assets\Other shit\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
-     <Compile Include="Assets\Other shit\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />
+     <Compile Include="Assets\Other stuff\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
+     <Compile Include="Assets\Other stuff\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />
      <Compile Include="Assets\Ignore\Scripts\PlayerMovementDashing.cs" />
      <Compile Include="Assets\Ignore\Scripts\Dashing.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs" />
-     <Compile Include="Assets\Other shit\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
+     <Compile Include="Assets\Other stuff\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\SplineHelpers.cs" />
      <Compile Include="Assets\Door.cs" />
      <Compile Include="Assets\Rotato.cs" />
      <Compile Include="Assets\Ignore\Scripts\Ignore\BallThroughHoop.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\PostFX\CinemachinePostFX.cs" />
-     <Compile Include="Assets\Other shit\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
+     <Compile Include="Assets\Other stuff\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs" />
      <Compile Include="Assets\Ignore\Scripts\PlayerMovementAdvanced.cs" />
      <Compile Include="Assets\Ignore\Scripts\WallRunningAdvanced.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\CinemachineCore.cs" />
      <Compile Include="Assets\Ignore\Scripts\Ignore\PlayerMovementAdvancedFinished.cs" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMPro.cginc" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Edge Detection.shader" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Grass Sway.shader" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Blur.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus.compute" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+     <Compile Include="Assets\gameStart.cs" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMPro.cginc" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Edge Detection.shader" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Grass Sway.shader" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Blur.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus.compute" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
      <None Include="Assets\Ignore\Cinemachine\ReleaseNotes.txt" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Depth Mask Edge Detection.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Ocean.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF.shader" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Dissolve.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Plasma.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Outline.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus Line.shader" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Snow.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Lava3D.shader" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Force Field.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-     <None Include="Assets\Other shit\Plugins\Demigiant\DOTween\readme.txt" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-     <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Simple Sine Wave.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Sprites\EmojiOne.json" />
-     <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Depth Mask Edge Detection.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Ocean.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Dissolve.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Plasma.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Outline.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus Line.shader" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Snow.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Lava3D.shader" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Force Field.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <None Include="Assets\Other stuff\Plugins\Demigiant\DOTween\readme.txt" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+     <None Include="Assets\Other stuff\Ultimate 10 Plus Shaders\Shaders\Simple Sine Wave.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Sprites\EmojiOne.json" />
+     <None Include="Assets\Other stuff\ImportedAssets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.10f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -437,11 +442,11 @@
      <Reference Include="UnityEditor.UnityConnectModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.10f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
-     <Reference Include="DOTween">
-     <HintPath>C:\Projects\Level Design Grapple\Assets\Other shit\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
-     </Reference>
      <Reference Include="Newtonsoft.Json">
      <HintPath>C:\Projects\Level Design Grapple\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
+     </Reference>
+     <Reference Include="DOTween">
+     <HintPath>C:\Projects\Level Design Grapple\Assets\Other stuff\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.10f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
