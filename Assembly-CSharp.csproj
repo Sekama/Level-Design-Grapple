@@ -107,6 +107,7 @@
      <Compile Include="Assets\Ignore\Scripts\Ignore\WallMovement.cs" />
      <Compile Include="Assets\Ignore\Scripts\Grappling.cs" />
      <Compile Include="Assets\Ignore\Scripts\Grappling\SwingingDone.cs" />
+     <Compile Include="Assets\SpawnEnable.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\PostFX\CinemachinePostProcessing.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs" />
@@ -129,8 +130,10 @@
      <Compile Include="Assets\Ignore\Scripts\Ignore\WallRunningCompletelyAdvanced.cs" />
      <Compile Include="Assets\Ignore\Scripts\Addons\MovingTarget.cs" />
      <Compile Include="Assets\Ignore\Scripts\Ignore\MoveCamera.cs" />
+     <Compile Include="Assets\Key.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\NoiseSettings.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs" />
+     <Compile Include="Assets\TimeTrial.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Timeline\CinemachineShot.cs" />
      <Compile Include="Assets\Ignore\Scripts\DashingDone.cs" />
      <Compile Include="Assets\Other shit\Ultimate 10 Plus Shaders\Scripts\U10PS_SnowOverTime.cs" />
@@ -142,6 +145,7 @@
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs" />
      <Compile Include="Assets\Other shit\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\SplineHelpers.cs" />
+     <Compile Include="Assets\Door.cs" />
      <Compile Include="Assets\Rotato.cs" />
      <Compile Include="Assets\Ignore\Scripts\Ignore\BallThroughHoop.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\PostFX\CinemachinePostFX.cs" />
@@ -152,10 +156,6 @@
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs" />
      <Compile Include="Assets\Ignore\Cinemachine\Base\Runtime\Core\CinemachineCore.cs" />
      <Compile Include="Assets\Ignore\Scripts\Ignore\PlayerMovementAdvancedFinished.cs" />
-     <Compile Include="Assets\SpawnEnable.cs" />
-     <Compile Include="Assets\Key.cs" />
-     <Compile Include="Assets\Door.cs" />
-     <Compile Include="Assets\TimeTrial.cs" />
      <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\Other shit\ImportedAssets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\Other shit\Ultimate 10 Plus Shaders\Shaders\Edge Detection.shader" />
